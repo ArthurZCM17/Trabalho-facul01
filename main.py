@@ -1,7 +1,7 @@
 from modelos import Triagem, Paciente, PacientePreferencia
 
 def main():
-
+    triagem = Triagem()
     while True:
         print("\n===== TRIAGEM =====")
         print("1 - Cadastrar paciente")
