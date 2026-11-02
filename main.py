@@ -1,4 +1,5 @@
-from modelos import Triagem, Paciente, PacientePreferencia
+from modelos import Paciente, PacientePreferencia
+from triagem import Triagem
 
 def main():
     triagem = Triagem()
