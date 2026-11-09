@@ -1,5 +1,7 @@
 from modelos import Paciente, PacientePreferencia
 from triagem import Triagem
+from banco import Banco
+from types import SimplesNamespace
 
 def main():
     triagem = Triagem()
