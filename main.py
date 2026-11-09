@@ -4,7 +4,7 @@ from triagem import Triagem
 def main():
     triagem = Triagem()
     while True:
-        print("\n===== TRIAGEM =====")
+        print("\n==== TRIAGEM ====")
         print("1 - Cadastrar paciente")
         print("2 - Chamar próximo")
         print("3 - Ver fila")
